@@ -182,6 +182,27 @@ INTERNET
 * Build a scalable smart village platform
 
 ---
+## 📸 Screenshots
+
+### Splash Screen
+![Splash](screenshots/splash.png)
+
+### Login Screen
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Report Screen
+![Report](screenshots/report.png)
+
+### Live Map
+![Map](screenshots/map.png)
+
+### Admin Panel
+![Admin](screenshots/admin.png)
+
+---
 
 # 🚀 Future Enhancements
 
@@ -227,10 +248,3 @@ Special thanks to:
 * MindMatrix Internship Program
 
 ---
-
-# 🌟 Project Status
-
-✅ Active Development Completed
-✅ Internship Ready
-✅ Portfolio Ready
-✅ GitHub Ready
