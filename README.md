@@ -182,37 +182,86 @@ INTERNET
 * Build a scalable smart village platform
 
 ---
-## 📸 Screenshots
 
-### Splash Screen
-![Splash](screenshots/splash.png)
+# 📸 App Screenshots
 
-### Login Screen
-![Login](screenshots/login.png)
+<h3 align="center">📱 Real Mobile View</h3>
 
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
+<p align="center">
+  <img src="screenshots/Mobileviw.jpeg" width="260"/>
+</p>
 
-### Report Screen
-![Report](screenshots/report.png)
+---
 
-### Live Map
-![Map](screenshots/map.png)
+<h3 align="center">🌟 Splash Screen</h3>
 
-### Admin Panel
-![Admin](screenshots/admin.png)
+<p align="center">
+  <img src="screenshots/login.jpeg" width="260"/>
+</p>
+
+---
+
+<h3 align="center">🔐 Login Screen</h3>
+
+<p align="center">
+  <img src="screenshots/login1.jpeg" width="260"/>
+</p>
+
+---
+
+<h3 align="center">🏠 Dashboard</h3>
+
+<p align="center">
+  <img src="screenshots/dashboard.jpeg" width="260"/>
+</p>
+
+---
+
+<h3 align="center">🚨 Report Screens</h3>
+
+<p align="center">
+  <img src="screenshots/Report1.jpeg" width="260"/>
+  <img src="screenshots/Report2.jpeg" width="260"/>
+</p>
+
+---
+
+<h3 align="center">📊 Analytics Dashboard</h3>
+
+<p align="center">
+  <img src="screenshots/Analytics.jpeg" width="260"/>
+</p>
+
+---
+
+<h3 align="center">🗺️ Live Map Monitoring</h3>
+
+<p align="center">
+  <img src="screenshots/Livelocation.jpeg" width="260"/>
+</p>
+
+---
+
+<h3 align="center">🛠️ Admin Monitoring Panel</h3>
+
+<p align="center">
+  <img src="screenshots/admin.jpeg" width="260"/>
+</p>
 
 ---
 
 # 🚀 Future Enhancements
 
-* Push Notifications
-* AI-based outage prediction
-* Technician assignment system
-* Complaint resolution tracking
-* Dark Mode
-* Offline report caching
-* Analytics dashboard improvements
+- Push Notifications
+- AI-based outage prediction
+- Technician assignment system
+- Complaint resolution tracking
+- Dark Mode
+- Offline report caching
+- Advanced analytics dashboard
+- Realtime outage heatmaps
+- Firebase Storage integration
+- Multi-language support
 
 ---
 
@@ -220,20 +269,20 @@ INTERNET
 
 ## Ramesh K N
 
-* Android Developer
-* AI & ML Student
-* Passionate about Smart Infrastructure Solutions
+- Android Developer
+- AI & ML Student
+- Passionate about Smart Infrastructure Solutions
 
-### 🔗 Connect
+### 🔗 Connect With Me
 
-* GitHub: [https://github.com/Rameshkn04](https://github.com/Rameshkn04)
-* LinkedIn: [https://www.linkedin.com/in/ramesh-kn](https://www.linkedin.com/in/ramesh-kn)
+- GitHub: https://github.com/Rameshkn04
+- LinkedIn: https://www.linkedin.com/in/ramesh-kn
 
 ---
 
 # 📜 License
 
-This project is developed for educational and internship purposes.
+This project is developed for educational, learning, and internship purposes.
 
 ---
 
@@ -241,10 +290,11 @@ This project is developed for educational and internship purposes.
 
 Special thanks to:
 
-* Firebase
-* Google Maps Platform
-* Android Studio
-* Jetpack Compose
-* MindMatrix Internship Program
+- Firebase
+- Google Maps Platform
+- Android Studio
+- Jetpack Compose
+- Kotlin
+- MindMatrix Internship Program
 
 ---
